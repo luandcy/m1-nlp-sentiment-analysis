@@ -13,7 +13,7 @@ The goal of this project is to demonstrate **text preprocessing, feature extract
 
 ## 🔹 Data
 - Source: **Twitter** (tweets in French)  
-- Size: 1 526 724 tweets
+- Size: 1.5 million tweets
 - Data preprocessing includes:  
   - Cleaning text (removing punctuation, links, mentions, emojis)  
   - Removing stopwords  
